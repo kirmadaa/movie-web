@@ -64,4 +64,5 @@ A simple guide has been written to assist in hosting your own instance of movie-
 This project would not be possible without our amazing contributors and the community. Thanks a lot! Keep rocking 🍻.
 
 [![Contributors](https://contrib.rocks/image?repo=movie-web/movie-web)](https://github.com/movie-web/movie-web/graphs/contributors)
+#
 
